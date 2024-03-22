@@ -7,4 +7,4 @@ https://my-json-server.typicode.com/bbhitec/bloug-json-server/blogs
 ```
 
 ### Resource
-Uses json-server as per: [https://my-json-server.typicode.com/]
+Uses json-server as per: [https://my-json-server.typicode.com/](https://my-json-server.typicode.com/)
