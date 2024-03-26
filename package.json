@@ -1,0 +1,22 @@
+{
+  "name": "bloug-json-server",
+  "version": "1.0.0",
+  "description": "Fake JSON based server for app testing.\r Use the endpoint:\r ```\r https://my-json-server.typicode.com/bbhitec/bloug-json-server/blogs\r ```",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bbhitec/bloug-json-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "json-serve": "^0.1.0",
+    "json-server": "^1.0.0-alpha.23"
+  }
+}
